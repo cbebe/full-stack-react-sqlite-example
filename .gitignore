@@ -1,0 +1,4 @@
+react-sqlite-backend/node_modules
+react-sqlite-backend/foobar.db
+react-sqlite-backend/foobar.db-shm
+react-sqlite-backend/foobar.db-wal
